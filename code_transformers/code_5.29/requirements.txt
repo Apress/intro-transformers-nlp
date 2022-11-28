@@ -1,0 +1,4 @@
+gradio
+git+https://github.com/huggingface/transformers.git
+torch
+transformers[sentencepiece]
